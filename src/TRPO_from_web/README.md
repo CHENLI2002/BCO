@@ -1,0 +1,1 @@
+This code is from https://github.com/choru-k/Reinforcement-Learning-Pytorch-Cartpole/blob/master/PG/6-TRPO/model.py, and owned intellectually by choru-k.
